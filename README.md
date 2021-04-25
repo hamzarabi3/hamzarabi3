@@ -4,7 +4,7 @@
    * Graduated from ENSMR Engineering school in Rabat, Morocco. 
    * I enjoy working with data and Machine learning models. 
  ### My skills 
-   * Python, R, SQL, Tableau, Excel and Spark. 
+   * Python (keras-tensorflow, Pandas, seaborn, spacy, OpenCV...), R, SQL, Tableau, Excel and Spark. 
    * Data Analysis, Machine Learning and Deep Learning. 
    * I'm fluent in English, Arabic and French. 
    
