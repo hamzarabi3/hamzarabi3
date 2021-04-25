@@ -14,6 +14,6 @@
   
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hamza-rabi)  
   
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzarabi3)](https://github.com/anuraghazra/github-readme-stats)
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzarabi3&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
