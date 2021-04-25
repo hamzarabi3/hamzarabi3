@@ -7,6 +7,11 @@
    * Python (keras-tensorflow, Pandas, seaborn, spacy, OpenCV...), R, SQL, Tableau and Excel. 
    * Data Analysis, Machine Learning and Deep Learning. 
    * I'm fluent in English, Arabic and French. 
+
+### Recent Projects
+  * [Employee attrition analysis and prediction using deep learning](https://github.com/hamzarabi3/solar-power-generation-forecasting)
+  * [Forecasting Solar power generation in Belgium with XGBoost](https://github.com/hamzarabi3/solar-power-generation-forecasting)
+  * 
    
   I am open to any new challenges and opportunities in the field of Data Science to improve my skills!
   
