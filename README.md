@@ -7,11 +7,13 @@
    * Python (keras-tensorflow, Pandas, seaborn, spacy, OpenCV...), R, SQL, Tableau and Excel. 
    * Data Analysis, Machine Learning and Deep Learning. 
    * I'm fluent in English, Arabic and French.
-
-
-*Check out my résumé in [Enlgish](Hamza_RABI_resume.pdf) and [French](Hamza_RABI_resume_FR.pdf) for details.* 
    
-  I am open to any new challenges and opportunities in the field of Data Science to improve my skills!
+*Check out my résumé in [Enlgish](Hamza_RABI_resume.pdf) and [French](Hamza_RABI_resume_FR.pdf) for details.* 
+
+### Recent Projects
+  * [Employee attrition analysis and prediction using deep learning](https://github.com/hamzarabi3/solar-power-generation-forecasting)
+  * [Forecasting Solar power generation in Belgium with XGBoost](https://github.com/hamzarabi3/solar-power-generation-forecasting)
+  * 
   
   Email address: hamzarabi303@gmail.com
   
