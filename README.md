@@ -7,7 +7,7 @@
    * Python (keras-tensorflow, Pandas, seaborn, spacy, OpenCV...), R, SQL, Tableau and Excel. 
    * Data Analysis, Machine Learning and Deep Learning. 
    * I'm fluent in English, Arabic and French.
-   * My résumé in [Enlgish](Hamza_RABI_resume.pdf) and [French](Hamza_RABI_resume_FR.pdf). 
+ Check out my résumé in [Enlgish](Hamza_RABI_resume.pdf) and [French](Hamza_RABI_resume_FR.pdf) for details. 
    
   I am open to any new challenges and opportunities in the field of Data Science to improve my skills!
   
