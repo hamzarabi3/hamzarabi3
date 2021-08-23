@@ -2,7 +2,7 @@
 ### Hello, I'm Hamza ! 👋
    * Google Certified Professional Data Analyst.
    * Graduated from ENSMR Engineering school in Rabat, Morocco. 
-   * I enjoy working with data and Machine learning models. 
+   * I enjoy working with Data and machine learning models. 
  ### My skills 
    * Python (keras-tensorflow, Pandas, seaborn, spacy, OpenCV...), R, SQL, Tableau and Excel. 
    * Data Analysis, Machine Learning and Deep Learning. 
