@@ -9,6 +9,7 @@
    * I'm fluent in English, Arabic and French.
 
 ### Recent projects
+   * [Stock forecast dashboard](https://github.com/hamzarabi3/streamlit_investor_dashboard)
    * [Forecasting Solar power generation in Belgium with XGBoost](https://github.com/hamzarabi3/solar-power-generation-forecasting)
    * [Employee attrition analysis and prediction using deep learning](https://github.com/hamzarabi3/Employee_Attrition_analysis_and_prediction)
    * [Bike sharing data analysis case study](https://github.com/hamzarabi3/Bike-sharing-data-analysis-case-study)
