@@ -14,7 +14,6 @@
    * [Employee attrition analysis and prediction using deep learning](https://github.com/hamzarabi3/Employee_Attrition_analysis_and_prediction)
    * [Bike sharing data analysis case study](https://github.com/hamzarabi3/Bike-sharing-data-analysis-case-study)
 
-*Check out my résumé in [English](Hamza_RABI_resume.pdf) and [French](Hamza_RABI_resume_FR.pdf) for details.* 
 
 
   Email address: hamzarabi303@gmail.com
